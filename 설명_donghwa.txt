@@ -1,0 +1,4 @@
+- 필요 패키지
+pandas
+numpy
+scikit-learn
